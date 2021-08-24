@@ -7,8 +7,8 @@ description: "KPT Retrospective of this week"
 ## Issues this week
 - [x] [Refactoring] Grafana webhook study, create grafana test dashboards and set the environment to stack raw data from grafana. I1
 - [x] [Refactoring] Grafana Webhook legacy code review. I2
-- [] [Documentation] Azure `Active Directory` documentation -> BLOCKED I3 
-- [] [New Feature] Azure `Active Directory` modeling. I4 -> BLOCKED 
+- [ ] [Documentation] Azure `Active Directory` documentation -> BLOCKED I3 
+- [ ] [New Feature] Azure `Active Directory` modeling. I4 -> BLOCKED 
 - [x] [CI/CD] Rename github plugin repositories, build latest docker images by running github actions. I5
 - [x] [CI/CD] Build CI/CD pipelines for private repositories,update CI pipelines to change dockerhub repository's name as git repos. I6
 - [x] [Refactoring] Grafana json raw data case study, alert & query study. I7
